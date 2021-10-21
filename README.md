@@ -54,6 +54,6 @@ Après une première partie concernant le nettoyage des données, où il fallait
 <br>
 <br>
 
-Cette analyse a ensuite laisser place à l'étude des corrélations. Par exemple, entre l'âge du client et le montant total, l'âge et la fréquence d'achat ou bien encore, l'âge et la catégorie. Tirer des conclusions sur ces corrélations n'était pas aussi évident qu'il y parait. 
+Cette analyse a ensuite laisser place à l'étude des corrélations. Par exemple, entre l'âge du client et le montant total, l'âge et la fréquence d'achat ou bien encore, l'âge et la catégorie. Tirer des conclusions sur ces corrélations n'était pas aussi évident qu'il n'y parait. 
 
 <img width="962" alt="Capture d’écran 2021-10-21 à 16 56 45" src="https://user-images.githubusercontent.com/45063193/138304040-3d93dfd6-799a-4ed5-a637-fb41bea61ece.png">
