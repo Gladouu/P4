@@ -1,5 +1,10 @@
 # [Analysez les ventes de votre entreprise](https://openclassrooms.com/fr/paths/65/projects/146/assignment)
 
+📗 ***[Notebook - Nettoyage des données](https://github.com/Gladouu/P4/blob/main/P4_01_scriptdonnées.ipynb)***
+
+📗 ***[Notebook - Analyse des données](https://github.com/Gladouu/P4/blob/main/P4_02_scriptanalyse.ipynb)***
+
+
 #### Compétences évaluées : 
 
   - Maîtriser les concepts statistiques fondamentaux
