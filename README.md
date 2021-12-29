@@ -6,9 +6,7 @@
   - Nettoyer un jeu de données
   - Décrire un jeu de données par la statistique descriptive
 
-<br>
-
-## Notebooks : 
+#### Notebooks : 
 
 📗 ***[Notebook - Nettoyage des données](https://github.com/Gladouu/P4/blob/main/P4_01_scriptdonnées.ipynb)***
 
